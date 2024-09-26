@@ -10,7 +10,7 @@ A equipe é composta por 4 integrantes, todos alunos da graduação de Engenhari
 
 | ![Imagem 1](resources/eli.jpg) | ![Imagem 2](resources/luis.jpg) | ![Imagem 3](resources/mari.jpg) | ![Imagem 4](resources/vini.jpg) |
 |:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
-| Elineide Nazaré             | Luís Phillipe                | Marielle Mar            | Vinicius Moreira           |
+| [Elineide Nazaré](https://github.com/Elinazare)          | [Luís Phillipe](https://github.com/lpruiz1)                | [Marielle Mar](https://github.com/mariellemar)            | [Vinicius Moreira](https://github.com/ViniMorei)           |
 
 
 ### Nome e logo
