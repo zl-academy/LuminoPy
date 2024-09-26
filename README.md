@@ -23,19 +23,16 @@ A equipe é composta por 4 integrantes, todos alunos da graduação de Engenhari
 </p>
 
 
-## Projetos
+# Projetos
 Esta seção apresenta brevemente os projetos que desenvolvemos utilizando _BotCity_. Diferente dos submódulos dentro do repositório, estes _links_ levam ao repositório original de cada um dos projetos.
 
 
-### [Monitoramento E-Commerce](https://github.com/zl-academy/LuminoPy_E-Commerce)
+## [Monitoramento E-Commerce](https://github.com/zl-academy/LuminoPy_E-Commerce)
 Esta automação retira dados da _Amazon_ e manipula em uma planilha do _Excel_.
 
----
 
-### [Cotação do Dólar](https://github.com/zl-academy/LuminoPy_API-Dolar)
+## [Cotação do Dólar](https://github.com/zl-academy/LuminoPy_API-Dolar)
 Esta automação integra diferentes _APIs_ para inserir dados em banco de dados.
 
----
-
-### [Coleta de Preços Médios LME](https://github.com/zl-academy/LuminoPy_PrecosLME)
+## [Coleta de Preços Médios LME](https://github.com/zl-academy/LuminoPy_PrecosLME)
 Esta automação faz o processo de _ETL_ em planilhas do _Excel_ utilizando _Pandas_.
