@@ -1,3 +1,6 @@
 [submodule "LuminoPy_E-Commerce"]
 	path = LuminoPy_E-Commerce
 	url = https://github.com/zl-academy/LuminoPy_E-Commerce.git
+[submodule "LuminoPy_API-Dolar"]
+	path = LuminoPy_API-Dolar
+	url = https://github.com/zl-academy/LuminoPy_API-Dolar.git
