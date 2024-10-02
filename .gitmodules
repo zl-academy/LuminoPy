@@ -7,3 +7,6 @@
 [submodule "LuminoPy_PrecosLME"]
 	path = LuminoPy_PrecosLME
 	url = https://github.com/zl-academy/LuminoPy_PrecosLME.git
+[submodule "LuminoPy_Eleicao"]
+	path = LuminoPy_Eleicao
+	url = https://github.com/zl-academy/LuminoPy_Eleicao.git
