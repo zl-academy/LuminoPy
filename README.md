@@ -36,3 +36,6 @@ Esta automação integra diferentes _APIs_ para inserir dados em banco de dados.
 
 ## [Coleta de Preços Médios LME](https://github.com/zl-academy/LuminoPy_PrecosLME)
 Esta automação faz o processo de _ETL_ em planilhas do _Excel_ utilizando _Pandas_.
+
+## [Avaliação Final Botcity](https://github.com/zl-academy/LuminoPy_Eleicao)
+Projeto em _BotCity_ e _Flask_ que integra e bota à prova todos os conhecimentos adquiridos durante o módulo de _BotCity_.
