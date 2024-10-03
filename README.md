@@ -17,9 +17,9 @@ A equipe é composta por 4 integrantes, todos alunos da graduação de Engenhari
 
 ***LuminoPy*** é uma aglutinação de _Luminoth_ e _Python_. _Luminoth_ é o nome de uma espécie alienígena fictícia, altamente avançada tecnologicamente, da série de jogos _Metroid Prime_, que tiveram seu planeta atingido por um corpo celeste (daí a inspiração para o cometa na logo). Como _Python_ é a linguagem que foi definida para o desenvolvimento dos projetos durante a capacitação, decidimos incluir no nome da equipe.
 <p align=center>
-    <img src="resources/luminoth.png" height=150>
+    <img src="resources/luminoth.png" height=140>
     <img src="resources/python.png" height=130>
-    <img src="resources/icon.png" height=110>
+    <img src="resources/icon.png" height=120>
 </p>
 
 
