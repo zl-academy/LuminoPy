@@ -10,3 +10,6 @@
 [submodule "LuminoPy_Eleicao"]
 	path = LuminoPy_Eleicao
 	url = https://github.com/zl-academy/LuminoPy_Eleicao.git
+[submodule "LuminoPy_IntegracaoPOO"]
+	path = LuminoPy_IntegracaoPOO
+	url = https://github.com/zl-academy/LuminoPy_IntegracaoPOO.git
