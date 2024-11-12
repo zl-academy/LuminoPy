@@ -39,3 +39,6 @@ Esta automação faz o processo de _ETL_ em planilhas do _Excel_ utilizando _Pan
 
 ## [Avaliação Final Botcity](https://github.com/zl-academy/LuminoPy_Eleicao)
 Projeto em _BotCity_ e _Flask_ que integra e bota à prova todos os conhecimentos adquiridos durante o módulo de _BotCity_.
+
+## [Integração POO - Funcional](https://github.com/zl-academy/LuminoPy_IntegracaoPOO)
+Este projeto integra os paradigmas de programação orientada a objetos e programação funcional.
